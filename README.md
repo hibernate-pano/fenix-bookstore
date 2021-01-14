@@ -1,2 +1,3 @@
 # fenix-bookstores
-spring cloud alibaba 学习工程
+基于 spring cloud alibaba 
+fenix-bookstores 书店网站
